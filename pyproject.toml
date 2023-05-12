@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "mensageria"
+version = "0.1.0"
+description = "mensageria para poder disparar mensagens para varios contatos"
+authors = ["muriloeduardo199 <muriloeduardo1993@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9"
+pandas = "^2.0.1"
+selenium = "^4.9.1"
+xlrd = "^2.0.1"
+webdriver-manager = "^3.8.6"
+pyautogui = "^0.9.53"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

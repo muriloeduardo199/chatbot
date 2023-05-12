@@ -1,0 +1,20 @@
+1683913921842	geckodriver	INFO	Listening on 127.0.0.1:52215
+1683913921954	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHYexOC"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1683913929357	Marionette	INFO	Marionette enabled
+1683913929445	Marionette	INFO	Listening on port 40535
+Read port: 40535
+Read port: 40535
+Read port: 40535
+WebDriver BiDi listening on ws://127.0.0.1:54195
+Read port: 40535
+1683913934037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHYexOC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54195/devtools/browser/b13524c7-3fee-41d4-bea2-34a0619043ae
+1683913987510	Marionette	INFO	Stopped listening on port 40535
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

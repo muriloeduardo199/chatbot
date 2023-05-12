@@ -1,0 +1,7 @@
+2023/05/12-15:49:54.991 3 Reusing MANIFEST /home/murilo/mensageria/User_Data/Default/Local Storage/leveldb/MANIFEST-000001
+2023/05/12-15:49:55.005 3 Recovering log #3
+2023/05/12-15:49:55.006 3 Level-0 table #3: started
+2023/05/12-15:49:55.242 3 Level-0 table #3: 21264 bytes OK
+2023/05/12-15:49:55.243 3 Recovering log #4
+2023/05/12-15:49:55.244 3 Reusing old log /home/murilo/mensageria/User_Data/Default/Local Storage/leveldb/000004.log 
+2023/05/12-15:49:55.693 3 Delete type=0 #3

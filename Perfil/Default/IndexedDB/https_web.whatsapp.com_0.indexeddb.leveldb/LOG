@@ -1,0 +1,9 @@
+2023/05/12-15:30:21.530 d0ef Reusing MANIFEST /home/murilo/mensageria/Perfil/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/12-15:30:21.531 d0ef Recovering log #23
+2023/05/12-15:30:21.659 d0ef Reusing old log /home/murilo/mensageria/Perfil/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000023.log 
+2023/05/12-15:30:36.610 d0e2 Compacting 1@1 + 1@2 files
+2023/05/12-15:30:37.081 d0e2 Generated table #28@1: 32442 keys, 1716819 bytes
+2023/05/12-15:30:37.081 d0e2 Compacted 1@1 + 1@2 files => 1716819 bytes
+2023/05/12-15:30:37.166 d0e2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/12-15:30:37.167 d0e2 Delete type=2 #5
+2023/05/12-15:30:37.167 d0e2 Delete type=2 #25
